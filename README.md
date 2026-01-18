@@ -1,6 +1,7 @@
 Hi I'm @sebastianBoehringer,
 
 studied for 3 years for my bachelor of science and now currently working as an alleged DevOps/ fullstack engineer.
+I completed my master's degree as well.
 
 Mainly fluent in Java. And practical knowledge with the Spring Boot framework.
 Also using Vue with Typescript to write frontends.
